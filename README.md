@@ -13,7 +13,7 @@ Este projeto desenvolve uma aplicação para processamento e análise de relató
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/rocdav/tarefasCMSP.git
 2. Instale as dependências:
    ```bash
   pip install -r requirements.txt
@@ -23,4 +23,4 @@ Este projeto desenvolve uma aplicação para processamento e análise de relató
    python main.py
 
 
-Feito com 💻 por: Davi Machado da Rocha para a conclusão da disciplina de Introdução a Web Semântica no ICMC durante o 2º semestre de 2023.
+Feito com 💻 por: Davi Machado da Rocha
