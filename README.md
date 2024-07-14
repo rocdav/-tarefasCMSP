@@ -1,5 +1,5 @@
 # Processamento de Relatórios de Tarefas
-
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-100000?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/histlearn/tarefasCMSP)
 Este projeto desenvolve uma aplicação para processamento e análise de relatórios de tarefas. Utilizando bibliotecas como pandas, re, os, matplotlib, fpdf, weasyprint e gradio, a aplicação permite normalizar dados, combinar relatórios e gerar gráficos e PDFs detalhados.
 
 ## Funcionalidades
