@@ -17,7 +17,7 @@ Este projeto desenvolve uma aplicação para processamento e análise de relató
 
 2. Instale as dependências:
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Execute o script principal:
    ```bash
