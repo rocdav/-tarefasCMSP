@@ -1,0 +1,10 @@
+pandas
+gradio
+openpyxl
+html5lib
+lxml
+fpdf
+matplotlib
+pdfkit
+weasyprint
+PyPDF2
