@@ -14,6 +14,7 @@ Este projeto desenvolve uma aplicação para processamento e análise de relató
 1. Clone este repositório:
    ```bash
    git clone https://github.com/rocdav/tarefasCMSP.git
+
 2. Instale as dependências:
    ```bash
   pip install -r requirements.txt
